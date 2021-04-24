@@ -2,7 +2,11 @@
 a = "uno"
 b = "dos"
 c = a + b 
-print="c"
+print(c) 
+c = a * 3 
+print(c)
+
+
 
 
 
